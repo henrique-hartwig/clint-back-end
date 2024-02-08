@@ -6,7 +6,7 @@ O back-end foi desenvolvido em ambiente `NodeJS` e para tal foram escolhidos a e
 
 Entre na pasta do back-end:
 
-> cd back-end
+> cd clint-back-end
 
 ### Banco de Dados
 O banco de dados escolhido para este desafio é o PostgreSQL. Para isso, é necessário tê-lo instalado em sua máquina.
